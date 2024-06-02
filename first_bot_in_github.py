@@ -1,0 +1,1 @@
+print('lello Allah')
