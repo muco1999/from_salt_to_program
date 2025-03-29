@@ -1,1 +1,1 @@
-print('lello Allah')
+print('hello Allah I LOVE YOU')
